@@ -12,6 +12,7 @@
 		"database", "db", "migrate", "sqlite"
 	],
 	"dependencies": {
+		"twostep": "0.3.3",
 		"sqlite3": ">=2.1.18"
 	}
 }
