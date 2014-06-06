@@ -1,7 +1,7 @@
 {
 	"name": "east-sqlite",
 	"description": "sqlite adapter for \"east\" (node.js database migration tool)",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"author": "Anton Makarov <anton.svet.viktorovich@gmail.com>",
 	"repository": {
 		"type": "git",
